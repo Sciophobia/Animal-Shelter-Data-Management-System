@@ -7,7 +7,7 @@ Language: English
 Brief Description
 ----------------------------
 This application is an animal records system for Furry Friends Animal Shelter.
-It provides an intuitive interfac that allows staff to enter information regarding
+It provides an intuitive interface that allows staff to enter information regarding
 each animal and allows them to print various types of reports which are based on the
 information entered. The various reports are listed:
 1) Client Report: This report is given to clients upon adoption of an animal. The information
